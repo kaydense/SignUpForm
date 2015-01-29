@@ -11,4 +11,6 @@
     <string name="pass_enter">Please enter your password</string>
     <string name="confirm">Confirm:</string>
     <string name="confirm_field">Confirm your password</string>
+    <string name="random">Random</string>
+
 </resources>
